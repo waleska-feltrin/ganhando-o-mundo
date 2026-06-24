@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(129, 194, 219);
+    color: rgb(7, 103, 158);
+
+}
+.titulo{ 
+    color: rgba(7, 24, 100, 0.877);
+    text-align: center;
+    font-size: 300%;
+}
+
+.titulo-2{
+    color: rgba(24, 6, 128, 0.623);
+    text-align: center;
+    font-size: 150%;
+}
+
+.paragrafo-1{
+    color: rgb(4, 42, 75);
+    text-align: center;
+    font-size: 100%;
+}
+
+.paragrafo-2{
+    color: rgb(4, 42, 75);
+    text-align: center;
+    font-size: 100%;
+}
+
+.paragrafo-3{
+    color: rgb(4, 42, 75);
+    text-align: center;
+    font-size: 120%;
+}
