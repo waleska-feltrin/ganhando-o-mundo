@@ -6,29 +6,46 @@ body{
 .titulo{ 
     color: rgba(7, 24, 100, 0.877);
     text-align: center;
-    font-size: 300%;
+    font-size: 400%;
 }
 
 .titulo-2{
     color: rgba(24, 6, 128, 0.623);
     text-align: center;
-    font-size: 150%;
+    font-size: 200%;
 }
 
 .paragrafo-1{
     color: rgb(4, 42, 75);
     text-align: center;
-    font-size: 100%;
+    font-size: 190%;
 }
 
 .paragrafo-2{
     color: rgb(4, 42, 75);
     text-align: center;
-    font-size: 100%;
+    font-size: 190%;
 }
 
 .paragrafo-3{
     color: rgb(4, 42, 75);
     text-align: center;
-    font-size: 120%;
+    font-size: 150%;
+}
+
+.imagem{
+     width: 20%;
+     
+     
+}
+
+.topicos{
+    text-align: center;
+    font-size: 150%;
+    color: rgb(4, 42, 75)
+}
+
+.rodape{
+    font-size: 90%;
+    color: rgba(0, 0, 0, 0.733);
 }
